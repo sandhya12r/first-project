@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://sandhya12r.github.io/first-project/" rel="noopener">
- <img width=500px height=200px src="image.png" alt="Project logo"></a>
+ <img width=500px height=200px src="FoodRes.jpeg" alt="Project logo"></a>
 </p>
 
 
